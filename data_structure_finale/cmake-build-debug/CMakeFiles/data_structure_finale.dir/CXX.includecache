@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/proj/beon/fkth/as/data_structure_finale/func.h
+iostream
+-
+cstring
+-
+cstdio
+-
+iomanip
+-
+fstream
+-
+
+D:/proj/beon/fkth/as/data_structure_finale/main.cpp
+func.h
+D:/proj/beon/fkth/as/data_structure_finale/func.h
+

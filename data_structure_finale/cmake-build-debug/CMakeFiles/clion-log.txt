@@ -1,0 +1,16 @@
+"C:\Program Files\JetBrains\CLion 2021.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" D:\proj\beon\fkth\as\data_structure_finale
+-- Configuring done
+CMake Error: Cannot determine link language for target "hfmTree".
+CMake Error: CMake can not determine linker language for target: hfmTree
+CMake Error: Cannot determine link language for target "ToBeTran".
+CMake Error: CMake can not determine linker language for target: ToBeTran
+CMake Error: Cannot determine link language for target "TextFile".
+CMake Error: CMake can not determine linker language for target: TextFile
+CMake Error: Cannot determine link language for target "TreePrint".
+CMake Error: CMake can not determine linker language for target: TreePrint
+CMake Error: Cannot determine link language for target "CodeFile".
+CMake Error: CMake can not determine linker language for target: CodeFile
+CMake Error: Cannot determine link language for target "CodePrint".
+CMake Error: CMake can not determine linker language for target: CodePrint
+-- Generating done
+CMake Generate step failed.  Build files cannot be regenerated correctly.
